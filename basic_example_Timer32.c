@@ -16,7 +16,7 @@
 // you get the real Timer32 code and you will see its benefit.
 
 
-#define Timer32
+//#define Timer32
 
 #include <ti/devices/msp432p4xx/driverlib/driverlib.h>
 
